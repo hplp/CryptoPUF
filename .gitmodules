@@ -1,0 +1,3 @@
+[submodule "pypuf"]
+	path = pypuf
+	url = https://github.com/nils-wisiol/pypuf.git
