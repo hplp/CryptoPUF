@@ -30,4 +30,4 @@ The CryptoPUF implementation is designed to allow easy integration of different 
 
 
 5. **Paper Results**
-    The full results for the CryptoPUF paper are available at [CryptoPUF Results Repository](https://github.com/YiminGao0113/CryptoPUF_results).
+    The code to reproduce results for the CryptoPUF paper is available at [CryptoPUF Results Repository](https://github.com/YiminGao0113/CryptoPUF_results).
